@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Great web agency</title>
+    <description>Great web agency offers high impact yet affordable web development services. From web design to targeted SEO to custom web applications.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Nov 2019 19:45:16 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Nov 2019 19:45:16 +0100</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Benefits of static site generators</title>
+        <description>&lt;p&gt;Some of the benefits of a static website generators are that they are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt; - makes building and maintaining websites incredibly simple, Static sites are easier to maintain (No databases, No server-side scripts!). Use static website generators when you’re after simplicity and want to put the emphasis on the content, which is what you should be doing. It doesn’t really matter, whether you’re focusing on hosting a huge website, or a simple portfolio, static websites can be extremely useful when it comes to saving money, time and resources.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt;: Static files can be served fast. There is no database or templating layer that slows requests down. Additionally, web servers will automatically set caching headers (such as Last-Modified) for static files, which reduce bandwidth usage.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Secure&lt;/strong&gt;, as they do not contain dynamic content, so are immune to the most common attacks. Considering the only thing being served to users’ devices are HTML, CSS and Javascript files&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Have versioning&lt;/strong&gt; - Storing content in flat, text files, makes them ideal to be used with version control systems, such as Git.&lt;/li&gt;
+  &lt;li&gt;Utilizing a static site generator means you can build websites with &lt;strong&gt;modern frameworks and workflows&lt;/strong&gt;, with a high degree of productivity and efficiency&lt;/li&gt;
+  &lt;li&gt;Uses &lt;strong&gt;markdown&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Previewable&lt;/strong&gt;: Because static sites are developed locally, you can play around with the site to your heart’s content without affecting the live site.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 19 Jan 2016 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/jekyll/benefits-of-static-website-generators.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/benefits-of-static-website-generators.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Learning Jekyll</title>
+        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman’s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there’s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That’s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more &amp;gt; who will, the experience most certainly changes your perspective. The things that we share in &amp;gt; our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-final-frontier&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not &amp;gt; &amp;gt; yet mastered prophecy. We predict too much for the next year and yet far too little for the &amp;gt; &amp;gt; next ten.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 08 Jan 2016 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/jekyll/learning-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/learning-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Why use Jekyll</title>
+        <description>&lt;p&gt;70% of today’s WordPress installations are vulnerable to known exploits (and WordPress powers more than 25% of the web). WordPress is used by 58.8% of all the websites whose content management system we know. This is &lt;a href=&quot;http://w3techs.com/technologies/details/cm-wordpress/all/all&quot;&gt;25.4% of all websites&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We pay a huge price for the underlying complexity of dynamic code running on a server for every request — a price we could avoid paying entirely when this kind of complexity is not needed.&lt;/p&gt;
+
+&lt;p&gt;Avoid common WP problems like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;My blog loading slowly.&lt;/li&gt;
+  &lt;li&gt;My blog crashing during peak periods.&lt;/li&gt;
+  &lt;li&gt;My blog becoming infected with malware.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To some degree, we tend to work around this by caching. No high-profile WordPress website would be capable of running without a plugin such as WP Super Cache. Large websites no doubt rely on proxy caches such as Varnish, Nginx and Apache Traffic Server in front of their websites. Caching is notoriously difficult to get right, however, and even the most optimized dynamic website will normally be many times slower than a static solution.&lt;/p&gt;
+
+&lt;h2 id=&quot;justa-blogging-platform&quot;&gt;Just a blogging platform.&lt;/h2&gt;
+&lt;p&gt;WordPress is basically a content management framework. It can do just about everything and, if that’s what you’re looking for, then stick with it. I haven’t got a vendetta against WordPress. It’s great software. It’s just evolved beyond its roots and beyond what I (and many other people) need.&lt;/p&gt;
+
+&lt;p&gt;To some, this focus will be limiting, but if you only want to run a blog, then:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jekyll has everything you need and nothing that you don’t. You won’t be bogged down in options and insignifcant choices, but you also won’t lack the features you need most.&lt;/li&gt;
+  &lt;li&gt;The writing experience is unparalleled. Because your content is built with Markdown files, you can use whatever text editor you prefer. Personally, I use Sublime Text, but any other option is fine. Your preference wins.&lt;/li&gt;
+  &lt;li&gt;There’s less chance of anything breaking. This is partly because of Jekyll’s small scope allowing for a considerable amount of polish, but also because you’re not dealing with finnicky server-side software.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/jekyll/why-use-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/why-use-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>How to create an ultra fast blog</title>
+        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman’s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there’s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That’s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more &amp;gt; who will, the experience most certainly changes your perspective. The things that we share in &amp;gt; our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-final-frontier&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not &amp;gt; &amp;gt; yet mastered prophecy. We predict too much for the next year and yet far too little for the &amp;gt; &amp;gt; next ten.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 08 Jan 2016 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogging/ultra-fast-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogging/ultra-fast-blog.html</guid>
+        
+        
+        <category>blogging</category>
+        
+      </item>
+    
+  </channel>
+</rss>
