@@ -1,31 +1,24 @@
-- icon: "icon ion-coffee"
-  title: "Branding"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
 - icon: "ion-compass"
-  title: "Web Design"
+  img:  "/img/wallpapers/Polski_Grzebien.bmp"
+  title: "Polski Grzebień"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
  
 - icon: "ion-image"
-  title: "App Design"
+  img:  "/img/wallpapers/Mountain.bmp"
+  title: "Jezioro"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  
+- icon: "icon ion-coffee"
+  img:  "/img/wallpapers/Mauritius.jpg"
+  title: "Mauritius"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-- icon: "ion-bug"
-  title: "Start Up"
+- icon: "ion-compass"
+  img:  "/img/wallpapers/Magurka.jpg"
+  title: "Magurka"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
  
-- icon: "ion-headphone"
-  title: "Logo Design"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
- 
-- icon: "ion-leaf"
-  title: "Development"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-- icon: "ion-planet"
-  title: "Brand Identity"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-- icon: "ion-earth"
-  title: "Brand Identity"
+- icon: "ion-image"
+  img:  "/img/wallpapers/Balony.jpg"
+  title: "Balony"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"

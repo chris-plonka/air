@@ -11,9 +11,12 @@
          {% for service in site.data.services %}
           <div class="col-sm-6 col-md-3">
             <div class="service-item">
-              <i class="{{ service.icon }}"></i>
+			<ul class="gallery">
+             <li><a href="{{ service.img }}" rel="prettyPhoto" title="{{ service.title }}"><img src="{{ service.img }}" class="img-responsive" /></a></li>
+			</ul>
+		 
               <h4>{{ service.title }}</h4>
-              <p>{{ service.content }}</p>
+              
             </div>
           </div>
           {% endfor %}
