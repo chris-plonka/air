@@ -22,3 +22,13 @@
   img:  "/img/wallpapers/Balony.jpg"
   title: "Balony"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  
+- icon: "ion-image"
+  img:  "/img/wallpapers/Turtle.jpg"
+  title: "Żółw"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  
+- icon: "ion-image"
+  img:  "/img/wallpapers/Skrzyczne.jpg"
+  title: "Skrzyczne"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
