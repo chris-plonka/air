@@ -7,19 +7,24 @@
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
           </div>
         </div>
+		<ul class="gallery">
         <div class="row ">
+		
          {% for service in site.data.services %}
           <div class="col-sm-6 col-md-3">
             <div class="service-item">
-			<ul class="gallery">
-             <li><a href="{{ service.img }}" rel="prettyPhoto" title="{{ service.title }}"><img src="{{ service.img }}" class="img-responsive" /></a></li>
-			</ul>
+			
+            <li><a href="{{ service.img }}" rel="prettyPhoto" title="{{ service.title }}"><img src="{{ service.img }}" style="width: auto; height: 120px;" /></a></li> 
+			
 		 
               <h4>{{ service.title }}</h4>
+              <p>{{ service.content }}</p>
               
             </div>
           </div>
           {% endfor %}
+		 
         </div>
+		</ul>
       </div>
     </section>
